@@ -1,4 +1,4 @@
-# MSDS-460-Assignment-4
+# MSDS 460 Assignment 4
 MSDS 460 Work Group Assignment 4  
 Jake Baker, Eve Huang, Hamdi Kucukengin, Sally Lee, and Maddy Lok
 
