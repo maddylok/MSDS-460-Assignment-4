@@ -32,7 +32,9 @@ Our [Monte Carlo](monte_carlo_simulation.py) simulation was created to generate 
 
 ## Results
 
-insert results here  
+This portfolio's growth performance is significantly higher than the standard S&P 500, especially towards later years in which it accelerates rapidly. In terms of volatility, investing in lifestyle and consumer-based stocks is a strong long-term investement, as these types of stocks remaind relatively stable as they are rarely replaced or affected by changes such as technological advancements.  
+
+While this ETF offers strong long-term returns, there are some concerns regarding maintenance stability, as the management fee is quite low which would not allow for much funding in regards to staff and technology. However, the ETF shows a strong potential for returns. If the management fee were to be increased even slightly, the firm could be very strong.
 
 ### Plot of stock price trends from 1999-2024:  
 
